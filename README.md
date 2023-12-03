@@ -14,7 +14,7 @@ This project serves as an introduction to building a `UNIX command interpreter`,
 - **Compilation:** Via Makefile, including `re`, `clean`, and `fclean` rules.
 - **Binary Name:** mysh
 
-## Project Overview 📜
+## Project Overview 🔎
 
 The goal of `minishell1` is to create a simple UNIX command interpreter.
 
